@@ -13,7 +13,8 @@
         android:text="Currency Converter"
         android:textColor="@color/black"
         android:textSize="35sp"
-        android:textStyle="bold"
+
+        android:textStyle="italic"
         app:layout_constraintBottom_toTopOf="@+id/guideline"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
